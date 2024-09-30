@@ -1,6 +1,7 @@
 # spark_scala
 
 Java
+    
     JAVA_HOME="/Users/nuwasponnambathayil/software/jdk-17.0.11.jdk/Contents/Home"
     PATH="${JAVA_HOME}/bin:${PATH}"                                             
     export PATH
@@ -9,6 +10,7 @@ Java
       java 17.0.11
 
 Maven    
+    
     export M2_HOME="/Users/nuwasponnambathayil/software/apache-maven-3.9.9"
     PATH="${M2_HOME}/bin:${PATH}"                                    
     export PATH
